@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moimarenco) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xmo1ses) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/msesv30) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=sql,javascript,typescript,java,astro,flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,javascript,typescript,java,astro,flutter&perline=4)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=moiCR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moiCR&theme=dark&hide_border=false)<br/>
