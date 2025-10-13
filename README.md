@@ -6,5 +6,5 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,javascript,typescript,java,cs,astro&perline=8)](https://skillicons.dev)
 
 #📱 Contact Us
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] 2snowk
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) moisesmarenco13@gmail.com
+* ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) 2snowk
+* ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) moisesmarenco13@gmail.com
