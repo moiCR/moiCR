@@ -1,7 +1,5 @@
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moimarenco) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/2snowk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1snowk) 
-
+<p>👋🏻 I am a Systems Engineering student and I am passionate about technology and programming. I like to create clean and efficient code. I like to improve every day as a programmer.
+</p>
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql,javascript,typescript,java,cs,astro,react&perline=8)](https://skillicons.dev)
 
