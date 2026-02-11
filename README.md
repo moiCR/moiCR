@@ -5,3 +5,8 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql,javascript,typescript,java,cs,astro,react&perline=8)](https://skillicons.dev)
 
+
+# 📱
+[![Gmail](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Gmail&logoColor=white)] moisesmarenco13@gmail.com
+[![Discord](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Discord&logoColor=white)] 2snowk
+
