@@ -7,6 +7,6 @@
 
 
 # 📱 Contact us
-* [![Gmail](https://img.shields.io/badge/Gmail-%f00.svg?logo=Gmail&logoColor=white)](moisesmarenco13@gmail.com)
-* [![Discord](https://img.shields.io/badge/Discord-%7289da.svg?logo=Discord&logoColor=white)] 2snowk
+* Mail: moisesmarenco13@gmail.com
+* Discord: 2snowk
 
