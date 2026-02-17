@@ -18,12 +18,6 @@
 ## Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/moiCR)
 
-## 🛠️ What I'm Doing
-
-- 🎓 **Finishing my Degree** - Finalizing my last term in Systems Engineering at UACA.
-- 🏨 **Building a Hotel ERP** - Developing an integrated management system for hotel chains with Next.js and Prisma.
-- ⚔️ **Architecting HCF Cores** - Crafting high-performance Minecraft plugins using Java and Gradle.
-
 ## 📬 Contact
 [![Discord](https://img.shields.io/badge/Discord-2snowk-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/2snowk)
 [![Email](https://img.shields.io/badge/Email-moisesmarenco13%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moisesmarenco13@gmail.com)
