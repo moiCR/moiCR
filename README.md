@@ -1,17 +1,19 @@
-# Hi, I'm Moisés 🇨🇷
+```rust
+pub struct MoisesMarencoVives {
+    pub role: &'static str,
+    pub os: (&'static str, &'static str),
+    pub languages: [&'static str; 3],
+    pub desktop_and_ui: [&'static str; 5],
+}
 
-Systems Engineering student and software developer from Costa Rica.
-
-I enjoy building fast, minimal, and thoughtfully designed software. My main interests are systems programming, Linux, and desktop development.
-
-### What I'm working on
-
-**[Capsule](https://github.com/moiCR/Capsule)** — A lightweight Wayland desktop shell built with Rust and GPUI.
-
-### Technologies
-
-Rust · Kotlin · Java
-
----
-
-*Always learning, building, and improving.*
+impl MoisesMarencoVives {
+    pub const fn new() -> Self {
+        Self {
+            role: "Systems Engineer",
+            os: ("Linux", "Windows"),
+            languages: ["Rust", "Java", "JS/TS"],
+            desktop_and_ui: ["GPUI", "Tauri", "Tailwind", "React", "Wayland"],
+        }
+    }
+}
+```
